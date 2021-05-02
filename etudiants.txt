@@ -1,0 +1,21 @@
+1		mr		Laberrine		Yvan		oui		oui		7
+2		mr		Villaume		Tom		non		non
+3		mme		Lamyrand		Louise		oui		non		3
+4		mr		Perrony		Gabriel		oui		non		4
+5		mme		Vidal		Bertille		oui		non		2
+6		mme		Jamot		Léane		non		non
+7		mme		Lévy-Valensi		Marie		non		oui
+8		mr		Vallée		Quentin		oui		non		7
+9		mr		Sancho		Thomas		oui		non		5
+10		mme		Jacobi		Anna		non		non
+11		mr		Pélissier		Vincent		oui		non		6
+12		mr		Vialette		Antoine		non		oui
+13		mr		Choné		Ben		oui		non		2
+14		mme		Seccaud		Jeanne		oui		non		1
+15		mr		Sahin		Tolga		non		non
+16		mme		Dupont		Sarah		non		non
+17		mme		Kittler		Margot		non		non
+18		mr		Manin		Maximilien		oui		oui		4
+19		mme		De-Béjarry		Pauline		oui		non		6
+20		mme		Starck		Alexandra		oui		non		2
+99		mr		kjzd		oinx		non		non
